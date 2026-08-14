@@ -64,5 +64,7 @@ Power BI Desktop (DAX, Power Query) · Python (pandas, for data auditing and cro
 
 This dataset does not include customer-level data, returns data, or actual shipping-time data. These are stated explicitly in the executive summary rather than worked around or implied.
 
----
-*Analysis by Oluwapelumi Oyesanya.*
+## Author
+
+Oluwapelumi Abigael Oyesanya, Data Analyst
+[LinkedIn](https://www.linkedin.com/in/oluwapelumi-oyesanya) · [Email](mailto:abigaeloyesanya@gmail.com)
