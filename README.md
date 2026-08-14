@@ -33,7 +33,7 @@ Full reasoning, risks, and a section on a state-level margin pattern that was in
 | `data_cleaning.py` | Reproducible cleaning + derived-field script |
 | `Superstore_Operational_Efficiency_Dashboard.pbix` | The actual interactive Power BI file |
 | `Superstore_Operational_Efficiency_Dashboard.pdf` | Static export of the full dashboard |
-| `Executive_Summary.pptx` | 5-slide executive presentation |
+| `Executive_Summary.pptx` | 5-slide executive presentation | 
 
 ## Dataset
 
