@@ -67,4 +67,4 @@ This dataset does not include customer-level data, returns data, or actual shipp
 ## Author
 
 Oluwapelumi Abigael Oyesanya, Data Analyst
-[LinkedIn](https://www.linkedin.com/in/oluwapelumi-oyesanya) · [Email](mailto:abigaeloyesanya@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/oluwapelumi-oyesanya) · [Email](mailto:abigaeloyesanya@gmail.com) 
